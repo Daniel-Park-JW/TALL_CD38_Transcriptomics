@@ -1,0 +1,5 @@
+GSE343669_RAW/
+*master_counts.csv
+*.tar
+.ipynb_checkpoints/
+.Zone.Identifier
